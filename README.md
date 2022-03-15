@@ -1,4 +1,4 @@
-# fitstyle
+# mistyle
 
 ## Project setup
 ```

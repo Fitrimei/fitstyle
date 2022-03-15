@@ -1,5 +1,5 @@
 {
-  "name": "fitstyle",
+  "name": "fitristyle",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,9 +7,13 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@vue/composition-api": "^1.4.4",
+    "bootstrap": "4.6",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue-router": "^3.2.0",
+    "vue-spinner": "^1.0.4",
+    "vue-supabase": "^2.2.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
